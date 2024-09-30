@@ -1,2 +1,2 @@
-# 1c
-123
+# 1C Kutik
+Mi molodec
